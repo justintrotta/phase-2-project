@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.Collapsible__trigger {
+  cursor: pointer;
+
+  position: relative;
+  display: block;
+
+  height: 4rem;
+  line-height: 4rem;
+  padding-left: 3rem;
+
+  background-color: lightblue; 
+  color: lightgreen; 
+
+}

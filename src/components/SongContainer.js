@@ -1,13 +1,23 @@
 import React, {useEffect, useState} from "react"
+import CollapseCard from "./CollapseCard"
 
-function SongContainer({api}) {
+function SongContainer({music}) {
 
-    const [songs, setSongs] = useEffect([])
+    const songMap = music.map((song) => {
+        return (<CollapseCard 
+            key={song.id}
+            title={song.song}
+            x={song.artist}
+            y={song.album}
+            z={song.date}
+            image={song.image}>
+
+            </CollapseCard>)
+    })
             
-    setSongs()
     return(
-        <div>
-            {songs}
+        <div className="songs">
+           {songMap} 
         </div>
     )
 }
