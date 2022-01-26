@@ -37,7 +37,7 @@
   }
 }
 
-.Collapsible__trigger {
+Collapsible {
   cursor: pointer;
 
   position: relative;
