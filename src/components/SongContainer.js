@@ -16,7 +16,10 @@ function SongContainer({music}) {
     })
             
     return(
-        <div className="songs">
+        
+        // <div className="songs">
+        <div id="about" style={{backgroundColor: "#FFE799", lineHeight: "40px", padding:"400px" }}>
+
            {songMap} 
         </div>
     )

@@ -51,7 +51,8 @@ function AlbumContainer({music}) {
     useEffect(() => albumHandler(), [])
 
     return(
-        <div className="albums">
+        <div id="about" style={{backgroundColor: "#FFE799", lineHeight: "40px", padding:"400px", fontFamily:'Pixeled'}}>
+
             {finalMap}
         </div>
     )

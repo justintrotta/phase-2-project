@@ -6,11 +6,12 @@ function Navbar() {
     const linkStyles = {
         display: "inline-block",
         width: "50px",
-        padding: "12px",
-        margin: "0 6px 6px",
-        background: "blue",
+        height: "20px",
+        margin: "5px",
+        padding: "5px",
+        background: "lightyellow",
         textDecoration: "none",
-        color: "white",
+        color: "Black",
       };
 
 
