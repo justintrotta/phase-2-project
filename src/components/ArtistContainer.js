@@ -5,10 +5,10 @@ import CollapseCard from "./CollapseCard"
 function ArtistContainer({music}) {
 
     const [finalMap, setFinalMap] = useState()
-    const artistObjArr = []
 
     function artistHandler() {
     const artistSet = new Set()
+    const artistObjArr = []
 
     music.forEach((o) => artistSet.add(o.artist))
 

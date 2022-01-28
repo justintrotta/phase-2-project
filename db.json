@@ -55,6 +55,14 @@
       "album": "Hotter Than July",
       "date": "1979",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Master_Blaster_Jammin.jpg/220px-Master_Blaster_Jammin.jpg"
+    },
+    {
+      "song": "All Along the Watchtower",
+      "artist": "Bob Dylan",
+      "album": "Non-Album Single",
+      "date": "1968-11-22",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Bob_Dylan_All_Along_the_Watchtower_single_cover.jpg/220px-Bob_Dylan_All_Along_the_Watchtower_single_cover.jpg",
+      "id": 8
     }
   ]
 }
