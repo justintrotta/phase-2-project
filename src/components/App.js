@@ -5,9 +5,7 @@ import SongContainer from "./SongContainer";
 import AlbumContainer from "./AlbumContainer";
 import ArtistContainer from "./ArtistContainer";
 import About from "./About";
-// import MusicBrainzApi from "musicbrainz-api";
-// import billboards from "billboard-music"
-
+import SongForm from "./SongForm";
 
 function App() {
 
@@ -25,6 +23,7 @@ function App() {
         <Route exact path="/songs" element={<SongContainer music={music} />}/>
         <Route exact path="/artists" element={<ArtistContainer music={music} />}/>
         <Route exact path="/albums" element={<AlbumContainer music={music} />}/>
+        <Route exact path="/addsongform" element={<SongForm/>}/>
         <Route exact path="/" element={<About />}/>
     </Routes>
     </div>

@@ -1,58 +1,60 @@
 {
-    "music": [
-        {
-            "id": 1,
-            "song": "Hey Jude",
-            "artist": "The Beatles",
-            "album": "Non-Album Single",
-            "date": "1968-06-26",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Heyjude1.png/220px-Heyjude1.png"
-
-        },
-        {
-            "id": 2,
-            "song": "Come Together",
-            "artist": "The Beatles",
-            "album": "Abbey Road",
-            "date": "1969-09-26",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Beatles_-_Abbey_Road.jpg/220px-Beatles_-_Abbey_Road.jpg"
-
-        },
-        {
-            "id": 3,
-            "song": "I Want You (She's So Heavy)",
-            "artist": "The Beatles",
-            "album": "Abbey Road",
-            "date": "1969-09-26",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Beatles_-_Abbey_Road.jpg/220px-Beatles_-_Abbey_Road.jpg"
-
-        },
-        {
-            "id": 4,
-            "song": "Immigrant Song",
-            "artist": "Led Zeppelin",
-            "album": "Led Zeppelin III",
-            "date": "1970-10-05",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Led_Zeppelin_-_Led_Zeppelin_III.png/220px-Led_Zeppelin_-_Led_Zeppelin_III.png"
-
-        },
-        {
-            "id": 5,
-            "song": "Since I've Been Loving You",
-            "artist": "Led Zeppelin",
-            "album": "Led Zeppelin III",
-            "date": "1970-10-05",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Led_Zeppelin_-_Led_Zeppelin_III.png/220px-Led_Zeppelin_-_Led_Zeppelin_III.png"
-
-        },
-         {
-            "id": 6,
-            "song": "No Quarter",
-            "artist": "Led Zeppelin",
-            "album": "Houses of the Holy",
-            "date": "1973-03-28",
-            "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Led_Zeppelin_-_Houses_of_the_Holy.jpg"
-
-        }
-    ]
+  "music": [
+    {
+      "id": 1,
+      "song": "Hey Jude",
+      "artist": "The Beatles",
+      "album": "Non-Album Single",
+      "date": "1968-06-26",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Heyjude1.png/220px-Heyjude1.png"
+    },
+    {
+      "id": 2,
+      "song": "Come Together",
+      "artist": "The Beatles",
+      "album": "Abbey Road",
+      "date": "1969-09-26",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Beatles_-_Abbey_Road.jpg/220px-Beatles_-_Abbey_Road.jpg"
+    },
+    {
+      "id": 3,
+      "song": "I Want You (She's So Heavy)",
+      "artist": "The Beatles",
+      "album": "Abbey Road",
+      "date": "1969-09-26",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Beatles_-_Abbey_Road.jpg/220px-Beatles_-_Abbey_Road.jpg"
+    },
+    {
+      "id": 4,
+      "song": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin III",
+      "date": "1970-10-05",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Led_Zeppelin_-_Led_Zeppelin_III.png/220px-Led_Zeppelin_-_Led_Zeppelin_III.png"
+    },
+    {
+      "id": 5,
+      "song": "Since I've Been Loving You",
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin III",
+      "date": "1970-10-05",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Led_Zeppelin_-_Led_Zeppelin_III.png/220px-Led_Zeppelin_-_Led_Zeppelin_III.png"
+    },
+    {
+      "id": 6,
+      "song": "No Quarter",
+      "artist": "Led Zeppelin",
+      "album": "Houses of the Holy",
+      "date": "1973-03-28",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Led_Zeppelin_-_Houses_of_the_Holy.jpg"
+    },
+    {
+      "id": 7,
+      "song": "Master Blaster (Jammin')",
+      "artist": "Stevie Wonder",
+      "album": "Hotter Than July",
+      "date": "1979",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Master_Blaster_Jammin.jpg/220px-Master_Blaster_Jammin.jpg"
+    }
+  ]
 }

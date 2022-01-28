@@ -4,7 +4,7 @@ import {NavLink} from "react-router-dom"
 function Navbar() {
 
     const linkStyles = {
-        display: "inline-block",
+        display: "inline-flex",
         width: "50px",
         height: "20px",
         margin: "5px",
@@ -14,9 +14,14 @@ function Navbar() {
         color: "Black",
       };
 
+    const navStyle = {
+        display: "flex",
+        "justify-content": "center"
+    }
+
 
 return (
-    <div className="navbar">
+    <div className="navbar" style={navStyle}>
         <NavLink 
             to="/songs"
             exact
@@ -37,6 +42,13 @@ return (
             style={linkStyles}
         >
         Artists
+        </NavLink>
+        <NavLink 
+            to="/addsongform"
+            exact
+            style={linkStyles}
+        >
+        Add
         </NavLink>
         <NavLink 
             to="/"
